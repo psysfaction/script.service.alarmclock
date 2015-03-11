@@ -60,4 +60,40 @@
     <setting label="30018" type="bool" id="turnOff5" default="false" enable="eq(-8,true)" />
     <setting label="30019" type="slider" id="duration5" default="30" range="5, 5, 120" option="int" enable="eq(-1,true)" />
   </category>
+  <category label="30006">
+    <setting label="30014" type="bool" id="alarm6" default="false"/>
+    <setting label="30010" type="enum" id="hour6" values="00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23" default="07" enable="eq(-1,true)" />
+    <setting label="30011" type="enum" id="minute6" values="00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59" enable="eq(-2,true)" />
+    <setting label="30012" type="enum" id="day6" lvalues="30020|30021|30022|30023|30024|30025|30026|30027|30028" default="7" enable="eq(-3,true)" />
+    <setting label="30015" type="enum" id="action6" lvalues="30016|30017" default="1" enable="eq(-4,true)" />
+    <setting label="30013" type="file" id="file6" visible="eq(-1,0)" enable="eq(-5,true)" />
+    <setting label="30013" type="text" id="text6" default="http://www.radio.ch/media/stream/radiozuerisee128k.m3u" visible="eq(-2,1)" enable="eq(-6,true)" />
+    <setting label="30009" type="slider" id="volume6" default="30" range="0, 5, 100" option="percent" enable="eq(-7,true)" />
+    <setting label="30018" type="bool" id="turnOff6" default="false" enable="eq(-8,true)" />
+    <setting label="30019" type="slider" id="duration6" default="30" range="5, 5, 120" option="int" enable="eq(-1,true)" />
+  </category>
+   <category label="30007">
+    <setting label="30014" type="bool" id="alarm7" default="false"/>
+    <setting label="30010" type="enum" id="hour7" values="00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23" default="07" enable="eq(-1,true)" />
+    <setting label="30011" type="enum" id="minute7" values="00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59" enable="eq(-2,true)" />
+    <setting label="30012" type="enum" id="day7" lvalues="30020|30021|30022|30023|30024|30025|30026|30027|30028" default="7" enable="eq(-3,true)" />
+    <setting label="30015" type="enum" id="action7" lvalues="30016|30017" default="1" enable="eq(-4,true)" />
+    <setting label="30013" type="file" id="file7" visible="eq(-1,0)" enable="eq(-5,true)" />
+    <setting label="30013" type="text" id="text7" default="http://www.radio.ch/media/stream/radiozuerisee128k.m3u" visible="eq(-2,1)" enable="eq(-6,true)" />
+    <setting label="30009" type="slider" id="volume7" default="30" range="0, 5, 100" option="percent" enable="eq(-7,true)" />
+    <setting label="30018" type="bool" id="turnOff7" default="false" enable="eq(-8,true)" />
+    <setting label="30019" type="slider" id="duration7" default="30" range="5, 5, 120" option="int" enable="eq(-1,true)" />
+  </category>
+     <category label="30008">
+    <setting label="30014" type="bool" id="alarm8" default="false"/>
+    <setting label="30010" type="enum" id="hour8" values="00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23" default="07" enable="eq(-1,true)" />
+    <setting label="30011" type="enum" id="minute8" values="00|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59" enable="eq(-2,true)" />
+    <setting label="30012" type="enum" id="day8" lvalues="30020|30021|30022|30023|30024|30025|30026|30027|30028" default="7" enable="eq(-3,true)" />
+    <setting label="30015" type="enum" id="action8" lvalues="30016|30017" default="1" enable="eq(-4,true)" />
+    <setting label="30013" type="file" id="file8" visible="eq(-1,0)" enable="eq(-5,true)" />
+    <setting label="30013" type="text" id="text8" default="http://www.radio.ch/media/stream/radiozuerisee128k.m3u" visible="eq(-2,1)" enable="eq(-6,true)" />
+    <setting label="30009" type="slider" id="volume8" default="30" range="0, 5, 100" option="percent" enable="eq(-7,true)" />
+    <setting label="30018" type="bool" id="turnOff8" default="false" enable="eq(-8,true)" />
+    <setting label="30019" type="slider" id="duration8" default="30" range="5, 5, 120" option="int" enable="eq(-1,true)" />
+  </category>
 </settings>
