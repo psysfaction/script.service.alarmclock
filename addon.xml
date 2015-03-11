@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.service.alarmclock"
-       name="XBMC Alarm clock"
+<addon id="script.service.alarmclock8"
+       name="XBMC Alarm clock mod 8"
        version="0.0.42"
        provider-name="remigius">
   <requires>
@@ -12,7 +12,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Provides an alarm clock for XBMC.</summary>
-    <description lang="en">The add-on provides five individual alarms for
+    <description lang="en">The add-on provides eight individual alarms for
     XBMC playing either a file or an URL on repeat.
 
     Features
@@ -34,6 +34,8 @@
      - Cron-like helper classes CronTab and Event inspired by an answer by 
        Brian on
        http://stackoverflow.com/questions/373335/suggestions-for-a-cron-like-scheduler-in-python/374207#374207
+       
+     - Mod by psysfaction
 
      - Clock clip art https://openclipart.org/detail/12591/alarm-clock-by-anonymous-12591
 
