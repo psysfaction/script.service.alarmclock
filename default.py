@@ -35,7 +35,7 @@ class AlarmClock:
     """Get a list of the cron jobs for the enabled alarms."""
     jobs = []
 
-    for i in range(1,6):
+    for i in range(1,9):
       if self.addon.getSetting("alarm%d" % i) == "true":
         jobs.extend(self._getJobs(i))
     xbmc.log("events fetched: %s" % str(jobs), xbmc.LOGDEBUG)
