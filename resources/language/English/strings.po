@@ -39,6 +39,26 @@ msgctxt "#30005"
 msgid "Alarm 5"
 msgstr ""
 
+msgctxt "#30006"
+msgid "Alarm 6"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Alarm 7"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Alarm 8"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Alarm 9"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Alarm 10"
+msgstr ""
+
 msgctxt "#30009"
 msgid "Volume"
 msgstr ""
