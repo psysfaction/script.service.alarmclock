@@ -1,2 +1,4 @@
+v0.042 mod.1
+- First mod. Chnages the availables alarms form 5 to 8
 v0.0.42
  - First official revision
