@@ -1,4 +1,4 @@
-xbmc-alarm-clock
+xbmc-alarm-clock mod 8
 ================
 
 The add-on provides five individual alarms for XBMC playing either a file 
@@ -25,6 +25,8 @@ or an URL on repeat.
     http://stackoverflow.com/questions/373335/suggestions-for-a-cron-like-scheduler-in-python/374207#374207
 
   - Clock clip art https://openclipart.org/detail/12591/alarm-clock-by-anonymous-12591
+   
+  - This is a mod of script.service.alarmclock from the official kodi repository made by remigius42  
 
   - fanart.jpg: a blend of
     http://commons.wikimedia.org/wiki/File:Sunrise_DUS.JPG
